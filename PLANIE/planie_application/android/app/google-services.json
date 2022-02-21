@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "656483520344",
+    "project_id": "planie-b56db",
+    "storage_bucket": "planie-b56db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656483520344:android:72ed5b3f9e33125961df2d",
+        "android_client_info": {
+          "package_name": "com.example.planie_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656483520344-ier8cj7s0d5v0ose0vk00f58147odo8q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZnK6tlGZSyxxcIGSbYpEE5uvvctW8v-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656483520344-ier8cj7s0d5v0ose0vk00f58147odo8q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
